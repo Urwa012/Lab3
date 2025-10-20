@@ -13,10 +13,3 @@ edited remotely.
 
 edited locally.
 changes for task6......
-
-=======
-=======
-edited locally
-
->>>>>>> 068b88a (Local update for rebase test)
->>>>>>> parent of 76fcc56 (Update README.md)
