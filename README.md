@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-D
 
 # Lab3
 
@@ -15,9 +12,3 @@ edited remotely.
 edited locally.
 changes for task6......
 
-=======
-# Lab3
->>>>>>> parent of 5348b1c (Remote update to README)
-=======
-# Lab3
->>>>>>> parent of 5348b1c (Remote update to README)
