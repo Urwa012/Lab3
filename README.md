@@ -1,13 +1,13 @@
-
+D
 
 # Lab3
 
 This line was updated remotely again.
 
-This LIne was added locally.
+This LIne was updated locally at this time.
 
 file edited for task 1(6)
 
+edited remotely.
+
 edited locally.
-
-
