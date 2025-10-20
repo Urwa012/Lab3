@@ -8,6 +8,6 @@ This LIne was added locally.
 
 file edited for task 1(6)
 
-edited locally
+edited locally.
 
 
